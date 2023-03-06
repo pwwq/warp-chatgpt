@@ -1,0 +1,1 @@
+V 0.7 更新内容：warp-go内核升级到1.0.8，并加入自动TUM值设置。脚本加入warp-cli的支持,也就是走socks5的warp。
